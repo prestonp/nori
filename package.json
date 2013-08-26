@@ -1,0 +1,25 @@
+{
+  "name": "nori",
+  "version": "0.0.0",
+  "description": "digital ocean dynamic dns",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/prestonp/nori.git"
+  },
+  "keywords": [
+    "digital",
+    "ocean",
+    "dynamic",
+    "dns"
+  ],
+  "author": "Preston Pham",
+  "license": "MIT",
+  "dependencies": {
+    "request": "~2.27.0"
+  }
+}

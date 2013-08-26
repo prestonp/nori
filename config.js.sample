@@ -1,0 +1,9 @@
+module.exports = {
+  clientId: '<CLIENT ID>'
+, apiKey: '<API KEY>'
+, domain: '<YOUR DOMAIN>'
+, record: 'A'
+
+, checkIp: 'http://ipecho.net/plain'
+, apiUrl: 'https://api.digitalocean.com'
+};
